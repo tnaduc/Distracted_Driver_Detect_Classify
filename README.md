@@ -18,4 +18,4 @@ The project utilizes the following dependencies:
 
 ## Data Preprocessing, Modelling and Traning
 
-Details are documented in this notebook.
+Details are documented in this [notebook](https://github.com/tnaduc/Distracted_Driver_Detect_Classify/blob/master/Distracted_Driver_Detection_Classification.ipynb).
