@@ -7,7 +7,7 @@ This project aims to develop a machine learning system that can detect and class
 Data is a collection of 10 different states of drivers containing one safe driving and 9 other distracted modes. The dataset is provided by State Farm through Kaggle which can be downloaded from [here](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data). Data exploration and preprocessing will be described in details in subsequent sections.
 
 ## Analysis
-Data exploration, preprocessing and analy will be conducted in great details to gain as much information about the dataset as possible. All steps of a machine learning pipeline are included and a summary is provided at the end of each section.
+Data exploration, preprocessing and analysis will be conducted in great details to gain as much information about the dataset as possible. All steps of a machine learning pipeline are included and a summary is provided at the end of each section.
 
 ## Tools
 
